@@ -3,7 +3,7 @@
 Mujahid Wartok_Arya_Salman_Bekis_Mujahidah Inara
 (WASBI TEAM ATTACKER)
        @ZA_TL
-===========>>><<<============
+===========>>>============>>>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 DDOS (denial-of-service Attacks) adalah jenis serangan yang dilakukan dengan cara membanjiri lalu lintas jaringan internet pada server, sistem, atau jaringan.
