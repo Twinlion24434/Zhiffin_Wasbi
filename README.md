@@ -16,5 +16,9 @@ cd Zhiffin_Wasbi
 
 ls
 
-python Zhiffin_Wasbi.py
+pip3 install termcolor
+
+run :
+python3 'Wasbi Team.py'
+
 
