@@ -18,7 +18,10 @@ ls
 
 pip3 install termcolor
 
-run :
 python3 'Wasbi Team.py'
 
 
+run :
+
+
+python3 'Wasbi Team.py' (masukkan link wec) 80 1000
