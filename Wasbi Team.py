@@ -8,6 +8,8 @@ import socket
 import sys
 import time
 from termcolor import colored
+import termcolor
+
 
 # Warna ASCII Art
 class bcolors:
