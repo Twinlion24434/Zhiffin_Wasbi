@@ -7,6 +7,7 @@ import threading
 import socket
 import sys
 import time
+from termcolor import colored
 
 # Warna ASCII Art
 class bcolors:
