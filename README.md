@@ -1,6 +1,6 @@
 # Zhiffin_Wasbi
 # Wasbi Team Solid Base_Nai Dedication
-Wartok_Arya_Salman_Bekis_Inara
+Mujahid Wartok_Arya_Salman_Bekis_Mujahidah Inara
 (WASBI TEAM ATTACKER)
        @ZA_TL
 ===========>>><<<============
