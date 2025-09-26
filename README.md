@@ -1,6 +1,7 @@
 # Zhiffin_Wasbi
 # Wasbi Team Solid Base_Nai Dedication
-Wartok*Arya*Salman*Bekis*Inara(WASBI TEAM ATTACKER)
+Wartok_Arya_Salman_Bekis_Inara
+(WASBI TEAM ATTACKER)
 ____________________________
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
