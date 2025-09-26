@@ -7,15 +7,20 @@ import threading
 import socket
 import sys
 import time
-import termcolor
+from termcolor import colored
 
-#termcolor
-print(termcolor.colored("Author : ZA_TL 'Twin lion' Base_Nai", 'green'))
-print(termcolor.colored("Community Hacktivis : Brigade Al Aqsa", 'magenta'))
-print(termcolor.colored("Team : WARTOK ~ ARYA ~ SALMAN ~ BEKIS ~ INARA ~ BASE_NAI", 'red'))
-print(termcolor.colored("Owner : Attacker 'BASE' Nitizen Attacker Indonesia", 'red'))
-print(termcolor.colored("This tool was developed for educational and research purposes, as well as to assist defense teams in analyzing and investigating similar attacks.", 'cyan'))
-print(termcolor.colored("You are using Zhiffin_Wasbi Team Version: 2.0", 'yellow'))
+# Clear the terminal
+os.system("clear")
+os.system("figlet Wasbi_Team")
+
+
+print()
+print(colored("Author   : TL 'Twin lion' Base_Nai", 'green'))
+print(colored("Community Hacktivis : Brigade Al Aqsa", 'magenta'))
+print(colored("Team Base_Nai  : WASBI_ Wartok-Arya-Salman-Bekis-Inara", 'red'))
+print(colored("Owner  : BASE_NAI 'ZA_TL' Nitizen Attacker Indonesia",'red'))
+print(colored("This tool was developed for educational and research purposes, as well as to assist defense teams in analyzing and investigating similar attacks.", 'cyan'))
+print(colored("You are using NurmanZegA Version: 2.0", 'yellow'))
 print()
 
 # Warna ASCII Art
