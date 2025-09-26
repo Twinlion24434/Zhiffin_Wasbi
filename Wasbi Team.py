@@ -50,10 +50,10 @@ print("\033[4m||                      Zero-day Exploit BASE                     
 print("\033[4m||                             ——o0o——                                    || \033[0m")
 print("\033[93m===========================================================================\033[0m")
 
-print(f"{bcolors.OKGREEN}Author : ZA_TL 'Twin lion' Base_Nai{bcolors.RESET}")
+print(colored("Author : ZA_TL 'Twin lion' Base_Nai", 'green'))
 print(colored("Community Hacktivis : Brigade Al Aqsa", 'magenta'))
-print(colored("Team   : WARTOK ~ ARYA ~ SALMAN ~ BEKIS ~ INARA ~ BASE_NAI", 'red'))
-print(colored("Owner  : Attacker 'BASE' Nitizen Attacker Indonesia",'red'))
+print(colored("Team : WARTOK ~ ARYA ~ SALMAN ~ BEKIS ~ INARA ~ BASE_NAI", 'red'))
+print(colored("Owner : Attacker 'BASE' Nitizen Attacker Indonesia", 'red'))
 print(colored("This tool was developed for educational and research purposes, as well as to assist defense teams in analyzing and investigating similar attacks.", 'cyan'))
 print(colored("You are using Zhiffin_Wasbi Team Version: 2.0", 'yellow'))
 print()
