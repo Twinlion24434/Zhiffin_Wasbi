@@ -13,5 +13,7 @@ git clone https://github.com/Twinlion24434/Zhiffin_Wasbi.git
 
 cd Zhiffin_Wasbi
 
+ls
+
 python Zhiffin_Wasbi.py
 
